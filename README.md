@@ -1,5 +1,5 @@
-# Blog
-[Blog](https://fast-falls-68245.herokuapp.com/) is created using Javascript, CSS, HTML, Bootstrap and MongoDB Atlas. It is deployed using Heroku.
+# Daily Journal
+[Daily Journal](https://fast-falls-68245.herokuapp.com/) is created using Javascript, CSS, HTML, Bootstrap and MongoDB Atlas. It is deployed using Heroku.
 
 ## Features of this app
 1. Compose new blog.
